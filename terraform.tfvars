@@ -1,0 +1,7 @@
+vsphere_user = "user"
+vsphere_server = "vcenter-server"
+vsphere_datacenter = "vcenter-dc"
+vsphere_cluster = "cluser"
+vsphere_network = "network la"
+vsphere_template = "template"
+vsphere_folder = "folder"
